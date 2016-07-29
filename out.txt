@@ -1,0 +1,28 @@
+Width: 25
+Height: 32
+Loaded img.bmp successfully 
+                         o      
+                  o             
+           o                    
+     o                        o 
+                       o        
+                 o              
+          o                     
+   o                         o  
+                      o         
+               o                
+         o                      
+  o                        o    
+                     o          
+              o                 
+       o                        
+ o                        o     
+                   o            
+             o   8@@@@@@@@@@@@@@
+@o    o                        o
+                         o      
+                  o             
+           o                    
+     o                        o 
+                       o        
+                 o              
